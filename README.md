@@ -1,3 +1,2 @@
 # Python
-note
-你好
+最终解释权归Richard所有!
